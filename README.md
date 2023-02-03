@@ -10,3 +10,6 @@ resource "aws_instance" "tf_demo" {
     Name = "tf-instance"
   }
 }
+
+
+#testing
